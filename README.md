@@ -22,9 +22,15 @@
   1. [服務供應商][this_service_provider]
   2. [即服務][this_aas]
 
+- **軟體工程**
+
+- **產品規劃**
+
+  1. [商業模式][this_business_models]
+
 - **常用術語**
 
-  1. [軟體工程][this_software_engineering]
+  1. [通用][this_generic]
 
 職場
 ====
@@ -79,20 +85,40 @@ IaaS  | *Infrastructure* as a Service | *基礎建設*即服務
 PaaS  | *Platform* as a Service       | *平台*即服務
 Saas  | *Software* as a Service       | *軟體*即服務
 
-軟體工程
+商業模式
 --------
+
+Abbr. | Fullname (Eng)                   | Fullname (Cht)
+----- | --------------                   | --------------
+AMS   | Association Management System    | 合作管理系統[<sup>[wiki]</sup>][wiki_ams]
+CMS   | Content Management System        | 內容管理系統[<sup>[wiki]</sup>][wiki_cms]
+CRM   | Customer Relationship Management | 客戶關係管理[<sup>[wiki]</sup>][wiki_crm]
+ERP   | Enterprise Resource Planning     | 企業資源計畫[<sup>[wiki]</sup>][wiki_erp]
+MAP   | Marketing Automation Platform    | 營銷自動化平台[<sup>[wiki]</sup>][wiki_map]
+PIM   | Product Information Management   | 產品資訊管理[<sup>[wiki]</sup>][wiki_pim]
+
+[wiki_ams]: https://en.wikipedia.org/wiki/Association_management
+[wiki_cms]: https://zh.wikipedia.org/wiki/内容管理系统
+[wiki_crm]: https://zh.wikipedia.org/wiki/客户关系管理
+[wiki_erp]: https://zh.wikipedia.org/wiki/企业资源计划
+[wiki_map]: https://en.wikipedia.org/wiki/Marketing_automation
+[wiki_pim]: https://en.wikipedia.org/wiki/Product_information_management
+
+通用
+----
 
 Fullname (Eng) | Fullname (Cht)
 -------------- | --------------
-Business Model | 商業模式[<sup>[wiki]</sup>][wiki_business_model]
+Business Model | [商業模式][this_business_models][<sup>[wiki]</sup>][wiki_business_model]
 Infrastructure | 基礎建設
 
 [wiki_business_model]: https://zh.wikipedia.org/wiki/商业模式
 
 [this_aas]: #user-content-即服務
+[this_business_models]: #user-content-商業模式
 [this_department]: #user-content-職位部門
+[this_generic]: #user-content-通用
 [this_service_provider]: #user-content-服務供應商
-[this_software_engineering]: #user-content-軟體工程
 
 Contributing
 ------------
