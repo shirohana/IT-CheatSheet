@@ -29,6 +29,10 @@
   1. [服務供應商][this_service_provider]
   2. [即服務][this_aas]
 
+- **資訊安全**
+
+  1. [身份驗證][this_authentication]
+
 - **軟體工程**
 
 - **產品規劃**
@@ -145,6 +149,21 @@ IaaS  | *Infrastructure* as a Service | *基礎建設*即服務
 PaaS  | *Platform* as a Service       | *平台*即服務
 Saas  | *Software* as a Service       | *軟體*即服務
 
+資訊安全
+========
+
+身份驗證
+--------
+
+Abbr.  | Fullname (Eng)              | Fullname (Cht)
+-----  | --------------              | --------------
+&nbsp; | Authenticacion              | 身份驗證[<sup>[wiki]</sup>][wiki_authenticacion]
+2FA    | Two-factor Authentication   | 雙因子認證
+MFA    | Multi-factor Authentication | 多因子認證[<sup>[wiki]</sup>][wiki_mfa]
+
+[wiki_authenticacion]: https://zh.wikipedia.org/wiki/身份验证
+[wiki_mfa]: https://zh.wikipedia.org/wiki/多重要素驗證
+
 商業模式
 --------
 
@@ -180,6 +199,7 @@ Contributing
 給我，就算只是閒聊也沒關係 ٩(｡・ω・｡)و
 
 [this_aas]: #user-content-即服務
+[this_authentication]: #user-content-身份驗證
 [this_business_models]: #user-content-商業模式
 [this_department]: #user-content-職位部門
 [this_generic]: #user-content-通用
