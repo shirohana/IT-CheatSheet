@@ -17,6 +17,13 @@
 
   1. [職位、部門][this_department]
 
+- **網際網路**
+
+  1. [網路技術][this_internet_tech]
+  2. [OSI 模型][this_osi_model]
+  3. [應用層][this_internet_application_layer]
+  4. [傳輸層][this_internet_transport_layer]
+
 - **雲端運算**
 
   1. [服務供應商][this_service_provider]
@@ -55,6 +62,59 @@ SE       | System Engineer               | 系統工程師
 UI       | User Interface Designer       | 使用者介面設計師
 UX       | User Experience Designer      | 使用者體驗設計師
 VD       | Visual Designer               | 視覺設計師
+
+網際網路
+========
+
+網路技術
+--------
+
+Abbr. | Fullname (Eng)           | Fullname (Cht)
+----- | --------------           | --------------
+CDN   | Content Delivery Network | 內容傳遞網路[<sup>[wiki]</sup>][wiki_cdn]
+
+[wiki_cdn]: https://zh.wikipedia.org/wiki/內容傳遞網路
+
+OSI 模型
+--------
+
+Abbr.   | Fullname (Eng)                              | Fullname (Cht)
+-----   | --------------                              | --------------
+OSI     | Open System Interconnection Reference Model | 開放式系統互連通訊參考模型[<sup>[wiki]</sup>][wiki_osi_model]
+Layer 7 | Application Layer                           | [應用層][this_internet_application_layer][<sup>[wiki]</sup>][wiki_application_layer]
+Layer 4 | Transport Layer                             | [傳輸層][this_internet_transport_layer][<sup>[wiki]</sup>][wiki_transport_layer]
+
+[wiki_application_layer]: https://zh.wikipedia.org/wiki/应用层
+[wiki_osi_model]: https://zh.wikipedia.org/wiki/OSI模型
+[wiki_transport_layer]: https://zh.wikipedia.org/wiki/传输层
+
+應用層
+------
+
+Abbr.  | Fullname (Eng)               | Fullname (Cht)
+-----  | --------------               | --------------
+&nbsp; | Application Layer            | 應用層[<sup>[wiki]</sup>][wiki_application_layer]
+DNS    | Domain Name System           | 網域名稱系統[<sup>[wiki]</sup>][wiki_dns]
+HTTP   | HyperText Transfer Protocol  | 超文本傳輸協定[<sup>[wiki]</sup>][wiki_http]
+RTP    | Real-time Transport Protocol | 即時傳輸協定[<sup>[wiki]</sup>][wiki_rtp]
+RTSP   | Real Time Streaming Protocol | 即時串流協定[<sup>[wiki]</sup>][wiki_rtsp]
+
+[wiki_dns]: https://zh.wikipedia.org/wiki/域名系统
+[wiki_http]: https://zh.wikipedia.org/wiki/超文本传输协议
+[wiki_rtp]: https://zh.wikipedia.org/wiki/实时传输协议
+[wiki_rtsp]: https://zh.wikipedia.org/wiki/即時串流協定
+
+傳輸層
+------
+
+Abbr.  | Fullname (Eng)                | Fullname (Cht)
+-----  | --------------                | --------------
+&nbsp; | Transport Layer               | 傳輸層[<sup>[wiki]</sup>][wiki_transport_layer]
+TCP    | Transmission Control Protocol | 傳輸控制協定[<sup>[wiki]</sup>][wiki_tcp]
+UDP    | User Datagram Protocol        | 用戶資料報協定[<sup>[wiki]</sup>][wiki_udp]
+
+[wiki_tcp]: https://zh.wikipedia.org/wiki/传输控制协议
+[wiki_udp]: https://zh.wikipedia.org/wiki/用户数据报协议
 
 雲端運算
 ========
@@ -114,13 +174,17 @@ Infrastructure | 基礎建設
 
 [wiki_business_model]: https://zh.wikipedia.org/wiki/商业模式
 
-[this_aas]: #user-content-即服務
-[this_business_models]: #user-content-商業模式
-[this_department]: #user-content-職位部門
-[this_generic]: #user-content-通用
-[this_service_provider]: #user-content-服務供應商
-
 Contributing
 ------------
 如有任何建議請不用顧慮地發 [Issue][github_new_issue]
 給我，就算只是閒聊也沒關係 ٩(｡・ω・｡)و
+
+[this_aas]: #user-content-即服務
+[this_business_models]: #user-content-商業模式
+[this_department]: #user-content-職位部門
+[this_generic]: #user-content-通用
+[this_internet_application_layer]: #user-content-應用層
+[this_internet_tech]: #user-content-網路技術
+[this_internet_transport_layer]: #user-content-傳輸層
+[this_osi_model]: #user-content-OSI-模型
+[this_service_provider]: #user-content-服務供應商
