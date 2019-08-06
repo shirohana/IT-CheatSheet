@@ -79,7 +79,7 @@ VD       | Visual Designer               | 視覺設計師
 
 Abbr. | Fullname (Eng)           | Fullname (Cht)
 ----- | --------------           | --------------
-CDN   | Content Delivery Network | 內容傳遞網路[<sup>[wiki]</sup>][wiki_cdn]
+CDN   | Content Delivery Network | 內容交付網路[<sup>[wiki]</sup>][wiki_cdn]
 
 [wiki_cdn]: https://zh.wikipedia.org/wiki/內容傳遞網路
 
