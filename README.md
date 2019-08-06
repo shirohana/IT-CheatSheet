@@ -33,6 +33,10 @@
 
   1. [身份驗證][this_authentication]
 
+- **自由及開源軟體**
+
+  1. [授權條款][this_license]
+
 - **軟體工程**
 
 - **產品規劃**
@@ -164,6 +168,27 @@ MFA    | Multi-factor Authentication | 多因子認證[<sup>[wiki]</sup>][wiki_m
 [wiki_authenticacion]: https://zh.wikipedia.org/wiki/身份验证
 [wiki_mfa]: https://zh.wikipedia.org/wiki/多重要素驗證
 
+自由及開源軟體[<sup>[wiki]</sup>][wiki_foss]
+==============
+
+[wiki_foss]: https://zh.wikipedia.org/wiki/自由及开放源代码软件
+
+授權條款[<sup>[wiki]</sup>][wiki_fs_license]
+--------
+
+Abbr.       | Fullname (Eng)                         | Fullname (Cht)
+-----       | --------------                         | --------------
+BSD License | Berkeley Software Distribution License | 柏克萊(Berkeley)軟體套件授權條款[<sup>[wiki]</sup>][wiki_bsd]
+GNU GPL     | GNU General Public License             | GNU通用公眾授權條款[<sup>[wiki]</sup>][wiki_gpl]
+GNU LGPL    | GNU Lesser General Public License      | GNU寬通用公共授權條款[<sup>[wiki]</sup>][wiki_lgpl]
+MIT License | The MIT License                        | 麻省理工學院(Massachusetts Institute of Technology)授權條款[<sup>[wiki]</sup>][wiki_mit]
+
+[wiki_bsd]: https://zh.wikipedia.org/wiki/BSD许可证
+[wiki_fs_license]: https://en.wikipedia.org/wiki/Free_software_license
+[wiki_gpl]: https://zh.wikipedia.org/wiki/GNU通用公共许可证
+[wiki_lgpl]: https://zh.wikipedia.org/wiki/GNU宽通用公共许可证
+[wiki_mit]: https://zh.wikipedia.org/wiki/MIT許可證
+
 商業模式
 --------
 
@@ -206,5 +231,6 @@ Contributing
 [this_internet_application_layer]: #user-content-應用層
 [this_internet_tech]: #user-content-網路技術
 [this_internet_transport_layer]: #user-content-傳輸層
+[this_license]: #user-content-授權條款wiki
 [this_osi_model]: #user-content-OSI-模型
 [this_service_provider]: #user-content-服務供應商
