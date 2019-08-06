@@ -47,6 +47,8 @@
 
   1. [通用][this_generic]
 
+- **[資源][this_resources]**
+
 職場
 ====
 
@@ -218,6 +220,10 @@ Infrastructure | 基礎建設
 
 [wiki_business_model]: https://zh.wikipedia.org/wiki/商业模式
 
+資源
+====
+> 子條目：[資源](./resources/README.md)
+
 Contributing
 ------------
 如有任何建議請不用顧慮地發 [Issue][github_new_issue]
@@ -233,4 +239,5 @@ Contributing
 [this_internet_transport_layer]: #user-content-傳輸層
 [this_license]: #user-content-授權條款wiki
 [this_osi_model]: #user-content-OSI-模型
+[this_resources]: #user-content-資源
 [this_service_provider]: #user-content-服務供應商
