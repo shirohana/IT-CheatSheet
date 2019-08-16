@@ -210,14 +210,19 @@ PIM   | Product Information Management   | 產品資訊管理[<sup>[wiki]</sup>]
 [wiki_map]: https://en.wikipedia.org/wiki/Marketing_automation
 [wiki_pim]: https://en.wikipedia.org/wiki/Product_information_management
 
+常用術語
+========
+
 通用
 ----
 
-Fullname (Eng) | Fullname (Cht)
--------------- | --------------
-Business Model | [商業模式][this_business_models][<sup>[wiki]</sup>][wiki_business_model]
-Infrastructure | 基礎建設
+Abbr.  | Fullname (Eng)        | Fullname (Cht)
+-----  | --------------        | --------------
+IP     | Intellectual Property | 智慧財產權[<sup>[wiki]</sup>][wiki_intellectual_property]
+&nbsp; | Business Model        | [商業模式][this_business_models][<sup>[wiki]</sup>][wiki_business_model]
+&nbsp; | Infrastructure        | 基礎建設
 
+[wiki_intellectual_property]: https://zh.wikipedia.org/wiki/知识产权
 [wiki_business_model]: https://zh.wikipedia.org/wiki/商业模式
 
 資源
