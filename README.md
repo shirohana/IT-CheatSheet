@@ -28,6 +28,7 @@
 
   1. [服務供應商][this_service_provider]
   2. [即服務][this_aas]
+  3. [AWS][this_aws]
 
 - **資訊安全**
 
@@ -39,13 +40,20 @@
 
 - **軟體工程**
 
+  1. [前端技術][this_frontend_tech]
+
 - **產品規劃**
 
   1. [商業模式][this_business_models]
 
-- **常用術語**
+- **程式語言**
+
+  1. [ECMAScript (JavaScript)][this_ecmascript]
+
+- **未分類**
 
   1. [通用][this_generic]
+  2. [文件副檔名][this_file_extensions]
 
 - **[資源][this_resources]**
 
@@ -155,6 +163,21 @@ IaaS  | *Infrastructure* as a Service | *基礎建設*即服務
 PaaS  | *Platform* as a Service       | *平台*即服務
 Saas  | *Software* as a Service       | *軟體*即服務
 
+AWS
+---
+
+Abbr. | Fullname (Eng)                 | Fullname (Cht)
+----- | --------------                 | --------------
+IAM   | Identity and Access Management | 身份存取管理[<sup>[docs]</sup>][aws_iam]
+OUs   | Organizational Units           | 組織單位[<sup>[docs]</sup>][aws_ous]
+SCP   | Service Control Policies       | 服務控制政策[<sup>[docs]</sup>][aws_scp]
+STS   | Security Token Service         | 安全識別符服務[<sup>[docs]</sup>][aws_sts]
+
+[aws_iam]: https://docs.aws.amazon.com/zh_tw/IAM/latest/UserGuide/introduction.html
+[aws_ous]: https://docs.aws.amazon.com/zh_tw/organizations/latest/userguide/orgs_manage_ous.html
+[aws_scp]: https://docs.aws.amazon.com/zh_tw/organizations/latest/userguide/orgs_manage_policies_scp.html
+[aws_sts]: https://docs.aws.amazon.com/zh_tw/STS/latest/APIReference/Welcome.html
+
 資訊安全
 ========
 
@@ -191,6 +214,15 @@ MIT License | The MIT License                        | 麻省理工學院(Massac
 [wiki_lgpl]: https://zh.wikipedia.org/wiki/GNU宽通用公共许可证
 [wiki_mit]: https://zh.wikipedia.org/wiki/MIT許可證
 
+軟體工程
+========
+
+前端技術
+--------
+
+產品規劃
+========
+
 商業模式
 --------
 
@@ -210,8 +242,20 @@ PIM   | Product Information Management   | 產品資訊管理[<sup>[wiki]</sup>]
 [wiki_map]: https://en.wikipedia.org/wiki/Marketing_automation
 [wiki_pim]: https://en.wikipedia.org/wiki/Product_information_management
 
-常用術語
+程式語言
 ========
+
+ECMAScript (JavaScript)
+-----------------------
+
+Abbr. | Fullname (Eng)     | Fullname (Cht)
+----- | --------------     | --------------
+TDZ   | Temporal Dead Zone | 暫時性死區[<sup>[segmentfault]</sup>][sf_tdz]
+
+[sf_tdz]: https://segmentfault.com/a/1190000008213835
+
+未分類
+======
 
 通用
 ----
@@ -225,6 +269,15 @@ IP     | Intellectual Property | 智慧財產權[<sup>[wiki]</sup>][wiki_intelle
 [wiki_intellectual_property]: https://zh.wikipedia.org/wiki/知识产权
 [wiki_business_model]: https://zh.wikipedia.org/wiki/商业模式
 
+文件副檔名
+----------
+
+Ext. | Fullname (Eng)        | Fullname (Cht)
+---- | --------------        | --------------
+CSV  | Comma-Seperated Value | 逗號分格值[<sup>[wiki]</sup>][wiki_csv]
+
+[wiki_csv]: https://zh.wikipedia.org/wiki/逗号分隔值
+
 資源
 ====
 > 子條目：[資源](./resources/README.md)
@@ -236,8 +289,11 @@ Contributing
 
 [this_aas]: #user-content-即服務
 [this_authentication]: #user-content-身份驗證
+[this_aws]: #user-content-aws
 [this_business_models]: #user-content-商業模式
 [this_department]: #user-content-職位部門
+[this_ecmascript]: #user-content-ecmascript-javascript
+[this_frontend_tech]: #user-content-前端技術
 [this_generic]: #user-content-通用
 [this_internet_application_layer]: #user-content-應用層
 [this_internet_tech]: #user-content-網路技術
@@ -245,4 +301,5 @@ Contributing
 [this_license]: #user-content-授權條款wiki
 [this_osi_model]: #user-content-OSI-模型
 [this_resources]: #user-content-資源
+[this_file_extensions]: #user-content-文件副檔名
 [this_service_provider]: #user-content-服務供應商
